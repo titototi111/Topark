@@ -36,7 +36,8 @@ Email:1)6730528921@student.chula.ac.th
 
 🎞️ 3. Animation
 
-<img width="204" height="200" alt="image" src="https://github.com/user-attachments/assets/61e02a97-a7ec-4f24-b253-c636a680d7c1" />
+<img width="204" height="200" alt="GITGIFa" src="https://github.com/user-attachments/assets/e09269c1-032c-4bf0-94f0-38fdcc209e93" />
+
 
 
 💬 4. Quote
