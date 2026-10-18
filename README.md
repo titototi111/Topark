@@ -23,17 +23,21 @@ c) Update this README.md file:
      Replace the example filenames and placeholders below with your actual information. Match the capitalization of directory and file names exactly.
 
 👤 1. Student Information
-
-Name: *** Your full name *** 
-Email: *** Your email address *** 
-
+1.
+Name:1) Sorawit Tunsaranuwat
+     2) Supanat Prakitsuvan
+Email:1)6730528921@student.chula.ac.th
+      2)6730507721@student.chula.ac.th
+      
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/6602605f-5ce0-4c1c-a32d-5044f5917b87" />
+
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+<img width="204" height="200" alt="image" src="https://github.com/user-attachments/assets/61e02a97-a7ec-4f24-b253-c636a680d7c1" />
+
 
 💬 4. Quote
 
